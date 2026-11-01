@@ -1,0 +1,20 @@
+{
+  "manifest_desc": {
+    "message": "Batch convert HEIC photos and Live Photos to JPG, PNG, GIF or MP4 — all locally in your browser."
+  },
+  "popup_desc": {
+    "message": "Convert HEIC photos and Live Photos to JPG, PNG, GIF or MP4 — batch, in your browser."
+  },
+  "popup_open": {
+    "message": "Open Converter"
+  },
+  "popup_pick": {
+    "message": "Select Files…"
+  },
+  "popup_tip": {
+    "message": "All processing runs locally in your browser. Files are never uploaded."
+  },
+  "popup_site": {
+    "message": "heicv.pages.dev"
+  }
+}

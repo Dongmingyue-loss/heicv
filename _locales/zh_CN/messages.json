@@ -1,0 +1,20 @@
+{
+  "manifest_desc": {
+    "message": "批量把 HEIC 照片和 Live Photo 转成 JPG、PNG、GIF 或 MP4 —— 全程在本地浏览器完成。"
+  },
+  "popup_desc": {
+    "message": "把 HEIC 照片和实况照片转成 JPG、PNG、GIF 或 MP4，支持批量处理。"
+  },
+  "popup_open": {
+    "message": "打开转换器"
+  },
+  "popup_pick": {
+    "message": "选择文件…"
+  },
+  "popup_tip": {
+    "message": "所有处理均在浏览器本地完成，文件不会上传到任何服务器。"
+  },
+  "popup_site": {
+    "message": "heicv.pages.dev"
+  }
+}
