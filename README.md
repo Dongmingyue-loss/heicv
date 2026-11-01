@@ -113,3 +113,7 @@ Yes — any modern browser (Chrome, Edge, Firefox, Safari) on Windows, macOS, Li
 ## License
 
 MIT
+
+---
+
+Made by **[董铭月](https://zhishangchunqiu.cn)** · [董铭月の小站](https://zhishangchunqiu.cn)

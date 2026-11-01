@@ -96,3 +96,7 @@ window.postMessage({ source: 'heicv-page', type: 'open-files' }, location.origin
 ## 许可
 
 MIT
+
+---
+
+作者：**[董铭月](https://zhishangchunqiu.cn)** · [董铭月の小站](https://zhishangchunqiu.cn)
